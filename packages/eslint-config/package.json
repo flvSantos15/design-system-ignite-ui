@@ -1,12 +1,10 @@
 {
-  "name": "eslint-config",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@ignite-ui/eslint-config",
+  "author": "flvSantos15",
+  "license": "MIT",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "eslint": "^8.34.0"
+  }
 }
