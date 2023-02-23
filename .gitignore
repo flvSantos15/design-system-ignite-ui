@@ -8,6 +8,7 @@ lerna-debug.log*
 
 node_modules
 dist
+.turbo
 dist-ssr
 *.local
 
