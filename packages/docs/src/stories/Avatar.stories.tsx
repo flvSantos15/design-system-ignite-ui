@@ -8,6 +8,13 @@ export default {
   args: {
     src: 'https://github.com/flvSantos15.png',
     alt: 'Flavio Santos'
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text'
+      }
+    }
   }
 } as Meta<AvatarProps>
 
